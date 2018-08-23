@@ -3,7 +3,7 @@ class sort
 {
 	public static void main(String[] args)
 	{
-		int[] array={1,5,8,7,6,3,4,2};
+		int[] array={1,1,1,1,0,0,1,0};
 		int temp;
 		for(int i=0;i<array.length;i++)
 		{
